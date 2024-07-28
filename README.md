@@ -6,10 +6,10 @@ I'm a passionate web developer with over 5 years of experience in building dynam
 
 ## 🚀 About Me
 
-- 🌍 Based in: [Your Location]
+- 🌍 Based in: Paris
 - 💼 Freelancer: Available for hire
-- 🎓 Education: [Your Education Details]
-- 💬 Languages: English, [Other Languages]
+- 🎓 Education: Master in Innovative Tech
+- 💬 Languages: English, French
 
 ## 🛠️ Technologies & Tools
 
@@ -27,9 +27,9 @@ I'm a passionate web developer with over 5 years of experience in building dynam
 
 ## 📫 Contact Me
 
-- LinkedIn: [William Tessari](https://www.linkedin.com/in/yourprofile)
-- Email: william.tessari@example.com
-- Portfolio: [williamtessari.dev](https://williamtessari.dev)
+- LinkedIn: [William Tessari](https://www.linkedin.com/in/william-tessari-807313144)
+- Email: william.tessari@epitech.eu
+- Portfolio: [williamtessari.dev](https://will-tess.com)
 
 ![Footer](https://via.placeholder.com/800x100.png?text=Thank+You+for+Visiting+My+Profile)
 
