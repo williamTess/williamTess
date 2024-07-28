@@ -1,6 +1,6 @@
 # 👋 Hello, I'm William Tessari!
 
-![Header](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
+![Header]([https://via.placeholder.com/800x200.png](https://media.licdn.com/dms/image/D5612AQGvBSM9jA2xhg/article-cover_image-shrink_720_1280/0/1709555541428?e=1727913600&v=beta&t=RggiwS2B_iMqul5u7w52LfMB-CgLaqxjj6_Ev_9F3yE)?text=Welcome+to+my+GitHub+Profile)
 
 I'm a passionate web developer with over 5 years of experience in building dynamic and responsive websites. As a freelancer, I've had the privilege to work on diverse projects, honing my skills in various web technologies.
 
@@ -24,23 +24,6 @@ I'm a passionate web developer with over 5 years of experience in building dynam
 ## 📈 GitHub Stats
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 💻 Projects
-
-### [Project 1: Portfolio Website](https://github.com/yourusername/portfolio)
-A personal portfolio website to showcase my skills, projects, and contact information.
-
-![Portfolio Screenshot](https://via.placeholder.com/400x200.png?text=Portfolio+Website+Screenshot)
-
-### [Project 2: E-commerce Platform](https://github.com/yourusername/ecommerce)
-A full-featured e-commerce platform with user authentication, product management, and payment integration.
-
-![E-commerce Screenshot](https://via.placeholder.com/400x200.png?text=E-commerce+Platform+Screenshot)
-
-### [Project 3: Blogging Platform](https://github.com/yourusername/blogging-platform)
-A simple and elegant blogging platform with rich text editor and user management.
-
-![Blogging Platform Screenshot](https://via.placeholder.com/400x200.png?text=Blogging+Platform+Screenshot)
 
 ## 📫 Contact Me
 
