@@ -1,6 +1,6 @@
 # 👋 Hello, I'm William Tessari!
 
-![Header]([https://via.placeholder.com/800x200.png](https://media.licdn.com/dms/image/D5612AQGvBSM9jA2xhg/article-cover_image-shrink_720_1280/0/1709555541428?e=1727913600&v=beta&t=RggiwS2B_iMqul5u7w52LfMB-CgLaqxjj6_Ev_9F3yE)?text=Welcome+to+my+GitHub+Profile)
+![Header]([https://via.placeholder.com/800x200.png](https://media.licdn.com/dms/image/D5612AQGvBSM9jA2xhg/article-cover_image-shrink_720_1280/0/1709555541428?e=1727913600&v=beta&t=RggiwS2B_iMqul5u7w52LfMB-CgLaqxjj6_Ev_9F3yE))
 
 I'm a passionate web developer with over 5 years of experience in building dynamic and responsive websites. As a freelancer, I've had the privilege to work on diverse projects, honing my skills in various web technologies.
 
